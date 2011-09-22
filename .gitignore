@@ -1,0 +1,9 @@
+# Monodevelop user specific files
+*.pidb
+*.userconfig
+
+# binaries
+bin
+
+# random editor temp files
+*~

@@ -1,0 +1,23 @@
+This solution contains two projects. I've only used them once to generate a cover for my thesis (unrelated subject). At the very least it may serve as a nice sample application, either for RESTful interfaces with .Net or for drawing with Cairo.
+
+ColourLoversAPI
+A simple API to ColourLovers.com using system libraries.
+
+Dependencies:
+System.Web, System.Xml and System.Drawing (for System.Drawing.Color, can be easily replaced)
+
+CairoColours
+A sample application to ColourLoversAPI. It uses Cairo and Pango to draw an image and uses the ColourLoversAPI to determine the colours.
+
+Controls:
+Space new drawing
+Left/Right previous/next colour palette
+Up/Down new seed for the random generator
+b save to image on the Desktop (png)
+s save to image on the Desktop (svg)
+p save to image on the Desktop (pdf)
+o toggle colour information
+Escape/q quit
+
+Dependencies:
+GTK, Cairo, Pango, ColourLoversAPI

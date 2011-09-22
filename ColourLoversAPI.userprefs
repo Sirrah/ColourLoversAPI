@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CairoColours/MainWindow.cs">
+    <Files>
+      <File FileName="ColourLoversAPI/ColourLovers.cs" Line="27" Column="1" />
+      <File FileName="ColourLoversAPI/ResultSets.cs" Line="19" Column="3" />
+      <File FileName="CairoColours/Main.cs" Line="16" Column="4" />
+      <File FileName="CairoColours/MainWindow.cs" Line="94" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

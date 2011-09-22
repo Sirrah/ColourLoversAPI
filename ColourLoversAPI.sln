@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColourLoversAPI", "ColourLoversAPI\ColourLoversAPI.csproj", "{58102E46-7C61-4AD5-AEDB-8D93267751E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CairoColours", "CairoColours\CairoColours.csproj", "{8FAA78F6-911C-4017-A74E-6FC0910A3F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58102E46-7C61-4AD5-AEDB-8D93267751E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58102E46-7C61-4AD5-AEDB-8D93267751E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58102E46-7C61-4AD5-AEDB-8D93267751E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58102E46-7C61-4AD5-AEDB-8D93267751E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FAA78F6-911C-4017-A74E-6FC0910A3F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FAA78F6-911C-4017-A74E-6FC0910A3F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FAA78F6-911C-4017-A74E-6FC0910A3F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FAA78F6-911C-4017-A74E-6FC0910A3F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = CairoColours\CairoColours.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 120
+		$2.RemoveTrailingWhitespace = True
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/plain
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.StatementBraceStyle = NextLine
+		$3.PlaceElseOnNewLine = True
+		$3.PlaceCatchOnNewLine = True
+		$3.PlaceFinallyOnNewLine = True
+		$3.PlaceWhileOnNewLine = True
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 120
+		$4.TabWidth = 4
+		$4.RemoveTrailingWhitespace = True
+		$4.inheritsSet = Mono
+		$4.inheritsScope = text/plain
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+		$5.Text = 
+		$5.IncludeInNewFiles = True
+	EndGlobalSection
+EndGlobal
