@@ -21,5 +21,5 @@ o           toggle colour information
 Escape/q    quit
 
 ## Dependencies
-This is a somewhat old project so any Gnome2 era release of the following libraries should work:
+This is a somewhat old project so any Gnome2 era (or later) release of the following libraries should work:
 GTK, Cairo, Pango
