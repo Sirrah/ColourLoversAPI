@@ -11,14 +11,14 @@ System.Web, System.Xml and System.Drawing (for System.Drawing.Color, can be easi
 A sample application to ColourLoversAPI. It uses Cairo and Pango to draw an image and uses the ColourLoversAPI to determine the colours.
 
 ## Controls
-* *Space*       new drawing
-* *Left/Right*  previous/next colour palette
-* *Up/Down*     new seed for the random generator
-* *b*           save to image on the Desktop (png)
-* *s*           save to image on the Desktop (svg)
-* *p*           save to image on the Desktop (pdf)
-* *o*           toggle colour information
-* *Escape/q*    quit
+* **Space**          new drawing
+* **Left**/**Right** previous/next colour palette
+* **Up**/**Down**    new seed for the random generator
+* **b**              save to image on the Desktop (png)
+* **s**              save to image on the Desktop (svg)
+* **p**              save to image on the Desktop (pdf)
+* **o**              toggle colour information
+* **Escape**/**q**   quit
 
 ## Dependencies
 This is a somewhat old project so any Gnome2 era (or later) release of the following libraries should work:
