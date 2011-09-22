@@ -1,15 +1,16 @@
-This solution contains two projects. I've only used them once to generate a cover for my thesis (unrelated subject). At the very least it may serve as a nice sample application, either for RESTful interfaces with .Net or for drawing with Cairo.
+This is a Monodevelop/VisualStudio solution with two projects. I've only used the code once to generate a cover for my thesis (unrelated subject). At the very least it may serve as a nice sample application, either for RESTful interfaces with .Net or for drawing with Cairo.
 
-ColourLoversAPI
+# ColourLoversAPI
 A simple API to ColourLovers.com using system libraries.
 
-Dependencies:
+## Dependencies
+Only a few system libraries:
 System.Web, System.Xml and System.Drawing (for System.Drawing.Color, can be easily replaced)
 
-CairoColours
+# CairoColours
 A sample application to ColourLoversAPI. It uses Cairo and Pango to draw an image and uses the ColourLoversAPI to determine the colours.
 
-Controls:
+## Controls
 Space       new drawing
 Left/Right  previous/next colour palette
 Up/Down     new seed for the random generator
@@ -19,5 +20,6 @@ p           save to image on the Desktop (pdf)
 o           toggle colour information
 Escape/q    quit
 
-Dependencies:
-GTK, Cairo, Pango, ColourLoversAPI
+## Dependencies
+This is a somewhat old project so any Gnome2 era release of the following libraries should work:
+GTK, Cairo, Pango
