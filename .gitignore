@@ -1,7 +1,7 @@
 # Monodevelop user specific files
 *.pidb
 *.userconfig
-gtk-gui/generated.cs
+generated.cs
 
 # binaries
 bin
